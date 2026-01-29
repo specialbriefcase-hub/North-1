@@ -1,0 +1,9 @@
+{
+  "name": "  Copy of VORTH (PERMA) 14",
+  "description": "A Purpose Coaching program based on the PERMA model helping users find meaning through AI-guided reflection and daily journaling.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone",
+    "geolocation"
+  ]
+}
